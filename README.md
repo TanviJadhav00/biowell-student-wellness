@@ -27,4 +27,4 @@ student wellness tool as part of a Digital Skills
 and Life Skills practical.
 
 ## Author
-FY Bioengineering Student
+Tanvi Jadhav
